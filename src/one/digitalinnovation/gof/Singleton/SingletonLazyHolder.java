@@ -1,6 +1,6 @@
-package one.digitalinnovation.gof;
+package one.digitalinnovation.gof.Singleton;
 
-import static one.digitalinnovation.gof.SingletonLazyHolder.InstanceHolder.instancia;
+import static one.digitalinnovation.gof.Singleton.SingletonLazyHolder.InstanceHolder.instancia;
 
 /**
  * Singleton "Lazy Holder".
